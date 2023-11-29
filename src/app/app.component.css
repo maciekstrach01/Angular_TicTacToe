@@ -1,0 +1,22 @@
+@media screen and (max-width: 768px) {
+    .header {
+      padding-top: 10px;
+    }
+  
+    .text-4xl {
+      font-size: 2rem;
+    }
+  
+    .text-2xl {
+      font-size: 1.5rem;
+    }
+  
+    .mt-5 {
+      margin-top: 10px;
+    }
+  
+    .mt-3 {
+      margin-top: 5px;
+    }
+  }
+  

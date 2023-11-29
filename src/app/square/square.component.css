@@ -1,0 +1,74 @@
+.game-square {
+  height: 100%;
+  text-align: center;
+  line-height: 1;
+  cursor: pointer;
+}
+
+
+p{
+    display: inline;
+    margin: 0px;
+    font-size: 12rem;
+    overflow: hidden;
+   
+}
+
+
+.noClick {
+  pointer-events: none;
+}
+
+@media screen and (max-width: 768px) {
+   p {
+    font-size: 8rem; 
+    line-height: 1.3;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+/* square.component.css */
+
+/* .game-square {
+  height: 100%;
+  text-align: center;
+  cursor: pointer;
+}
+
+p {
+  display: inline;
+  margin: 0px;
+  font-size: 12rem;
+  overflow: hidden;
+  line-height: 1; 
+}
+
+.noClick {
+  pointer-events: none;
+}
+
+@media screen and (max-width: 768px) {
+  .game-square {
+    height: 100px; 
+  }
+
+  .game-square p {
+    font-size: 8rem;
+    transform: translateY(10px); 
+  }
+} */
+
+
+
+
+
+
